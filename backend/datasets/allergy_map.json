@@ -1,0 +1,10 @@
+{
+  "milk": ["milk", "curd", "paneer", "cheese", "butter", "ghee", "cream", "yogurt"],
+  "gluten": ["wheat", "bread", "roti", "pasta", "maida", "atta", "cake", "cookies", "biscuits"],
+  "nuts": ["peanut", "almond", "cashew", "walnut", "pistachio", "hazelnut", "brazil nut", "macadamia"],
+  "seafood": ["fish", "prawn", "crab", "lobster", "shrimp", "salmon", "tuna"],
+  "shellfish": ["crab", "lobster", "shrimp", "oyster", "mussel", "clam"],
+  "peanuts": ["peanut", "peanut butter", "groundnut", "peanut oil"],
+  "soy": ["soy", "tofu", "soy sauce", "tempeh", "edamame", "soy milk"],
+  "eggs": ["egg", "mayonnaise", "meringue", "custard"]
+}
